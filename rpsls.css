@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    color: white;
+    font-style: Arial;
+    font-size: 36px;
+    border: 8px solid darkslateblue;
+}
+footer{
+    color: honeydew;
+    font-style: courier;
+    font-size: 32px;
+}
+h1{
+    color: honeydew;
+    font-size: courier;
+    font-style: oblique;
+    font-style: 48px;
+    text-align: center;
+
+}
+table{
+    align-content: center;
+}
+button{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.choice{
+    display: inline-block;
+}
+.choice:hover{
+    cursor: pointer;
+}
+.choices{
+    text-align: center;
+}
+#start{
+    text-align: center;
+}
